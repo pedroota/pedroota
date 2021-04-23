@@ -1,5 +1,5 @@
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://github.com/PedroOProgramador/PedroOProgramador/blob/main/image/computer-illustration.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/micaellimedeiros">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Pedro%20Ot%C3%A1vio-blue"/>
