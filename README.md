@@ -2,7 +2,7 @@
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/micaellimedeiros">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Micaelli%20Medeiros-blue"/>
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Pedro%20Ot%C3%A1vio-blue"/>
 </a>
 
 <a href="mailto:pedrocoutosoares214@gmail.com">
