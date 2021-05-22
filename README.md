@@ -14,5 +14,5 @@
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
 - 💻 HTML, CSS, Javascript
-- 📃Learning MongoDB, Vue.JS, VueNative, Node.JS and more...
+- 📃Learning MongoDB, React.JS, React Native, Node.JS and more...
 - ✨ Learning is continuous and there will always be a next level
