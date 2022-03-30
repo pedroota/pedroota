@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github.com/PedroOProgramador/PedroOProgramador/blob/main/image/computer-illustration.png" width="350"/>
 
-<a href="https://www.linkedin.com/in/pedrooprogramador/">
+<a href="https://www.linkedin.com/in/pedrootaviocouto/" target="_blanck">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Pedro%20Ot%C3%A1vio-blue"/>
 </a>
 
