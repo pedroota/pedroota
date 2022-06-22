@@ -5,7 +5,7 @@
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Pedro%20Ot%C3%A1vio-blue"/>
 </a>
 
-<a href="mailto:pedrocoutosoares214@gmail.com">
+<a href="mailto:pedrocoutosoares214@gmail.com" target="_blanck">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
 </a>
 
