@@ -5,8 +5,6 @@
   </a>
 </div>
 
-###
-
 <p align="left">My name is Pedro and I'm a front-end, from Brasil!</p>
 
 ###
