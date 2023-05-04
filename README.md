@@ -4,16 +4,6 @@
 
 <p align="left">My name is Pedro and I'm a front-end dev!</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React, React Native, Node.js, MongoDB, Express<br>🎯 Goals: Achieve a senior level<br>🎲 Fun fact: I love playing games</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
